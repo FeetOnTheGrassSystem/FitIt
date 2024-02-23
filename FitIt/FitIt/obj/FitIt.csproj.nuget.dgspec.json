@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\christian\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj": {}
+    "C:\\Users\\henjb\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\christian\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj": {
+    "C:\\Users\\henjb\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\christian\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj",
+        "projectUniqueName": "C:\\Users\\henjb\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj",
         "projectName": "FitIt",
-        "projectPath": "C:\\Users\\christian\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj",
-        "packagesPath": "C:\\Users\\christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\christian\\Documents\\FitIt\\FitIt\\FitIt\\obj\\",
+        "projectPath": "C:\\Users\\henjb\\Documents\\FitIt\\FitIt\\FitIt\\FitIt.csproj",
+        "packagesPath": "C:\\Users\\henjb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henjb\\Documents\\FitIt\\FitIt\\FitIt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henjb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
